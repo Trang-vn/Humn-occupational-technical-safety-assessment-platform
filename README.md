@@ -1,7 +1,7 @@
 # 🧠 Humn Occupational & Technical Safety Assessment (HOTSA) Project  
 **University of South Australia – Collaboration with Humn Pty Ltd**  
 **Duration:** August 2025 – October 2025  
-**Tools:** Microsoft Power Apps • Power Automate • Dataverse • Power BI • Excel VBA • SQL  
+**Tools:** Microsoft Power Apps • Power Automate • Dataverse • Power BI • Excel VBA   
 
 ---
 
